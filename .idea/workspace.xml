@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e66f260-5091-4f60-ba8e-62b88445c83f" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/three.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/two.html" beforeDir="false" afterPath="$PROJECT_DIR$/two.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,20 +35,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="two.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="two.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/two.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            <state relative-caret-position="136">
+              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="three.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="three.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/three.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -64,14 +64,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev_three" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/read.html" />
         <option value="$PROJECT_DIR$/one.html" />
-        <option value="$PROJECT_DIR$/two.html" />
         <option value="$PROJECT_DIR$/three.html" />
+        <option value="$PROJECT_DIR$/two.html" />
       </list>
     </option>
   </component>
@@ -85,9 +90,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="836" />
+    <option name="x" value="226" />
     <option name="y" value="17" />
-    <option name="width" value="1034" />
+    <option name="width" value="1644" />
     <option name="height" value="930" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -146,18 +151,18 @@
       <updated>1575887234722</updated>
       <workItem from="1575887236335" duration="707000" />
       <workItem from="1575940174053" duration="599000" />
-      <workItem from="1576027335788" duration="1992000" />
+      <workItem from="1576027335788" duration="3120000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3298000" />
+    <option name="totallyTimeSpent" value="4426000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="669" y="14" width="827" height="744" extended-state="0" />
+    <frame x="181" y="14" width="1315" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24905184" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15402658" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="调试" order="7" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -198,17 +203,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/two.html">
+    <entry file="file://$PROJECT_DIR$/three.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/three.html">
+    <entry file="file://$PROJECT_DIR$/two.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        <state relative-caret-position="136">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
         </state>
       </provider>
     </entry>
